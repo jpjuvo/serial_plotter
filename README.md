@@ -3,7 +3,7 @@
 This project can be used for prototyping sensors attached to Arduino.
 Use this as is or modify to your use case.
 
-![Main window](/img/python_serial_plotter.PNG)
+![Main window](/img/python_serial_plotter.gif)
 
 ## Usage
 
